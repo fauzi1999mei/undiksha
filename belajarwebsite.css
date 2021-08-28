@@ -1,0 +1,60 @@
+body{
+   
+text-align: center;    background-color: rgb(102, 102, 102);
+
+}
+.btn1{
+    height: 40px;
+    width: auto;
+    cursor: pointer;
+    margin: 10px;
+    font-style: bold;
+}
+img{
+    margin-top: 5%;
+}
+.text{color:white; font-size: 12;}
+
+.box input[type = "submit"]{
+    width: 100px;
+    height: 50px;
+    border-radius: 1000px;}
+
+.box input[type="submit"]:hover{
+    background-color: greenyellow;
+}
+.box input[type="text"]{
+        width: 200px;
+        border-radius: 24px;
+        height: 50px;
+        text-align: center;
+        margin:5px auto;}
+
+.box input[type = "text"]:hover{
+    background-color: greenyellow;
+} 
+
+i{
+    font-size: 25px;
+}
+
+.box input[type="password"]{
+    width: 200px;
+    border-radius: 24px;
+    height: 50px;
+    text-align: center;
+    margin:5px auto;}
+
+.box input[type = "password"]:hover{
+background-color: greenyellow;
+} 
+
+
+
+.text_bottom{
+    color :rgb(81, 85, 85);
+
+}
+.text2{color: white; font-size: 16;}
+
+
